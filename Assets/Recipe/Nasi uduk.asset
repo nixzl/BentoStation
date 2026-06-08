@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ba51c587e38bf4fbcd51a26c6b2b71, type: 3}
+  m_Name: Nasi uduk
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeData
+  itemName: Nasi Uduk
+  itemSprite: {fileID: -894268473198475317, guid: ad071ea3c360b6e4e992e86c3786a177, type: 3}
+  itemDescription: Nasi uduk merupakan makanan khas Betawi yang dibuat dengan cara
+    memasak beras menggunakan santan dan rempah-rempah seperti serai, daun salam,
+    dan daun pandan. Proses tersebut menghasilkan nasi yang gurih dan harum. Nasi
+    uduk biasanya disajikan bersama berbagai lauk seperti ayam goreng, telur, tempe,
+    tahu, dan sambal
