@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: fadf8c912af7ecb42bb8ccd5374e6cf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5638026259664062259
+    second: Player mini game_1_0
+  - first:
+      213: 4584409776705824312
+    second: Player mini game_1_1
+  - first:
+      213: 918682744592102398
+    second: Player mini game_1_2
+  - first:
+      213: -6778311170837946587
+    second: Player mini game_1_3
+  - first:
+      213: 5241258443371881250
+    second: Player mini game_1_4
+  - first:
+      213: 6309914659718171188
+    second: Player mini game_1_5
+  - first:
+      213: -116654144562083579
+    second: Player mini game_1_6
+  - first:
+      213: -3161330269983861264
+    second: Player mini game_1_7
+  - first:
+      213: 3780447647604129730
+    second: Player mini game_1_8
+  - first:
+      213: 3462391292548245981
+    second: Player mini game_1_9
+  - first:
+      213: 1870400081314585607
+    second: Player mini game_1_10
+  - first:
+      213: 4803058297111453938
+    second: Player mini game_1_11
+  - first:
+      213: 4481174544646686130
+    second: Player mini game_1_12
+  - first:
+      213: -7939479418526702140
+    second: Player mini game_1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player mini game_1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 345
+        width: 191
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc836660df4b1c1b0800000000000000
+      internalID: -5638026259664062259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 343
+        width: 175
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e06517681f9f30800000000000000
+      internalID: 4584409776705824312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 380
+        width: 245
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef371bcb611dfbc00800000000000000
+      internalID: 918682744592102398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_3
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 378
+        width: 226
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f542537e99ee1a0800000000000000
+      internalID: -6778311170837946587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 298
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a23de8c0bcb840800000000000000
+      internalID: 5241258443371881250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 279
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a088f93f1519750800000000000000
+      internalID: 6309914659718171188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 78
+        width: 260
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509cccf6caf816ef0800000000000000
+      internalID: -116654144562083579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 63
+        width: 239
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51cef6ed2b024d0800000000000000
+      internalID: -3161330269983861264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 118
+        width: 203
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb7671b19d67430800000000000000
+      internalID: 3780447647604129730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 292
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd96eb93982ec0030800000000000000
+      internalID: 3462391292548245981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 210
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1e92d6fef4f910800000000000000
+      internalID: 1870400081314585607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_11
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 41
+        width: 176
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f022d2d214e7a240800000000000000
+      internalID: 4803058297111453938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 47
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5403e8184503e30800000000000000
+      internalID: 4481174544646686130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player mini game_1_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 26
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e035b88d41d190800000000000000
+      internalID: -7939479418526702140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player mini game_1_0: -5638026259664062259
+      Player mini game_1_1: 4584409776705824312
+      Player mini game_1_10: 1870400081314585607
+      Player mini game_1_11: 4803058297111453938
+      Player mini game_1_12: 4481174544646686130
+      Player mini game_1_13: -7939479418526702140
+      Player mini game_1_2: 918682744592102398
+      Player mini game_1_3: -6778311170837946587
+      Player mini game_1_4: 5241258443371881250
+      Player mini game_1_5: 6309914659718171188
+      Player mini game_1_6: -116654144562083579
+      Player mini game_1_7: -3161330269983861264
+      Player mini game_1_8: 3780447647604129730
+      Player mini game_1_9: 3462391292548245981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
